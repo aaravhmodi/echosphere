@@ -2,11 +2,15 @@
 
 **Real-time AI Environmental Impact Visualization**
 
-[![EchoSphere Demo](demo/screenshot.png)](https://github.com/aaravhmodi/echosphere)
+[![EchoSphere Demo](home.png)](https://github.com/aaravhmodi/echosphere)
 
 ## 🎬 Demo
 
-**Live Demo**: [https://github.com/aaravhmodi/echosphere](https://github.com/aaravhmodi/echosphere)
+**Live Demo**
+
+https://github.com/user-attachments/assets/25f23865-1313-4593-a150-9d47450daf1a
+
+
 
 ### Demo Files
 - **📱 App Demo**: [`demo/echosphere-demo.mp4`](demo/echosphere-demo.mp4) - Full video demonstration
