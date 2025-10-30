@@ -357,10 +357,8 @@ npm run ios
 
 **Acknowledgments**:
 - Built for environmental sustainability awareness
-- Hackathon MVP 2024
 - Inspired by the need to visualize AI's hidden environmental costs
 - React Native Reanimated for high-performance animations
 
 ---
 
-**🌱 Built for sustainability awareness** | **Hackathon MVP 2024** | **Technical Documentation v1.0**
