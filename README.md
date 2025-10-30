@@ -41,6 +41,21 @@ co2_kg = energy_kwh × 0.4
 water_l = energy_kwh × 0.3
 ```
 
+## 🎬 Demo
+
+**Live Demo**: [https://github.com/aaravhmodi/echosphere](https://github.com/aaravhmodi/echosphere)
+
+### Demo Files
+- **📱 App Demo**: [`demo/echosphere-demo.mp4`](demo/echosphere-demo.mp4) - Full video demonstration
+- **🎞️ GIF Preview**: [`demo/echosphere-demo.gif`](demo/echosphere-demo.gif) - Quick animated preview
+- **📸 Screenshots**: [`demo/screenshot.png`](demo/screenshot.png) - Static app interface
+
+### Features in Action
+- 🌍 **Rotating Globe**: Continuously animated 3D-style Earth
+- 💫 **Live Ripples**: Color-coded pulses representing AI model usage
+- 📊 **Real-time Stats**: Cumulative CO₂, energy, and water impact
+- 🎨 **Visual Impact**: Each ripple shows the environmental cost of AI inference
+
 ## 🚀 Getting Started
 
 ### Prerequisites
